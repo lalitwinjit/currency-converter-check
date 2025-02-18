@@ -1,0 +1,26 @@
+{
+  "name": "currency-converter-check",
+  "version": "1.0.0",
+  "description": "An npm package to convert currency",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/lalitwinjit/currency-converter-check.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "lalit1530",
+  "license": "Apache-2.0",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/lalitwinjit/currency-converter-check/issues"
+  },
+  "homepage": "https://github.com/lalitwinjit/currency-converter-check#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
